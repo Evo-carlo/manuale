@@ -1,16 +1,58 @@
 {
   "capitoli": [
     {
-      "titolo": "Introduzione",
-      "testo": "Benvenuti nel mondo di Eldoria..."
+      "titolo": "Il Wildsea",
+      "testo": "Il Wildsea è ciò che resta del mondo dopo la Verdancy: un oceano infinito di chiome, liane e fronde. Le navi non solcano l'acqua, ma fendono rami e foglie. Ogni viaggio è pericoloso, ogni porto è una scoperta."
     },
     {
-      "titolo": "Combattimento",
-      "testo": "Il combattimento si svolge a turni..."
+      "titolo": "Personaggi",
+      "sezioni": [
+        {
+          "titolo": "Stirpe",
+          "testo": "La stirpe definisce cosa sei: umano, insettoide, fungino, innestato o qualcosa di ancora più strano. Influenza il tuo corpo e il tuo modo di interagire con il mondo."
+        },
+        {
+          "titolo": "Origine",
+          "testo": "L'origine racconta da dove vieni e cosa ti ha portato a solcare la Wildsea: cacciatore, esule, studioso, predone o superstite."
+        },
+        {
+          "titolo": "Posto",
+          "testo": "Il posto è il tuo ruolo sulla nave: timoniere, sentinella, chirurgo, cannoniere, navigatore. Definisce cosa fai quando le cose vanno male."
+        }
+      ]
     },
     {
-      "titolo": "Magia",
-      "testo": "La magia utilizza punti mana..."
+      "titolo": "Azioni e Tiri",
+      "testo": "Quando agisci sotto pressione, tira un numero di d6 pari all'abilità rilevante.\n\n6 = successo pieno\n4–5 = successo con costo\n1–3 = complicazione\n\nIl costo può essere stress, consumo di risorse o l'avanzamento di un tracciato."
+    },
+    {
+      "titolo": "Tracciati",
+      "sezioni": [
+        {
+          "titolo": "Cosa sono",
+          "testo": "I tracciati rappresentano pericoli, ferite, ostacoli o progetti a lungo termine. Quando si riempiono, qualcosa accade."
+        },
+        {
+          "titolo": "Avanzamento",
+          "testo": "I tracciati avanzano come conseguenza delle azioni o delle complicazioni. Possono essere ridotti con riposo, riparazioni o sacrifici."
+        }
+      ]
+    },
+    {
+      "titolo": "La Nave",
+      "testo": "La nave è un personaggio collettivo. Ha moduli, risorse, tracciati e problemi. Perdere la nave significa perdere tutto ciò che permette di sopravvivere nella Wildsea."
+    },
+    {
+      "titolo": "Viaggio",
+      "testo": "Viaggiare nella Wildsea significa affrontare scarsità, creature, tempeste di fronde e territori ostili. Ogni tratta è una scommessa."
+    },
+    {
+      "titolo": "Conflitto",
+      "testo": "Il conflitto non è solo combattimento. Può essere inseguimento, negoziazione, sabotaggio o fuga. Le regole restano le stesse: azioni, costi e conseguenze."
+    },
+    {
+      "titolo": "La Lucciola",
+      "testo": "La Lucciola descrive il mondo, interpreta le fazioni e fa avanzare i tracciati. Non è un avversario, ma il battito della Wildsea."
     }
   ]
 }
