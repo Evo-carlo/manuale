@@ -1,18 +1,41 @@
 body {
-  font-family: sans-serif;
+  font-family: system-ui, sans-serif;
   margin: 0;
-  background: #121212;
-  color: #f0f0f0;
+  background: #0f1a14;
+  color: #e6f2ea;
 }
 
 header {
-  background: #1f1f1f;
-  padding: 1rem;
+  background: #14261c;
+  padding: 1.2rem;
   text-align: center;
+  border-bottom: 2px solid #2f5e46;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header p {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+  opacity: 0.8;
 }
 
 main {
-  padding: 1rem;
+  padding: 1.5rem;
+  padding-bottom: 6rem;
+  line-height: 1.6;
+}
+
+h2 {
+  border-bottom: 1px solid #2f5e46;
+  padding-bottom: 0.3rem;
+}
+
+h3 {
+  margin-top: 1.2rem;
+  color: #9be3b1;
 }
 
 nav {
@@ -20,14 +43,28 @@ nav {
   bottom: 0;
   width: 100%;
   display: flex;
-  background: #1f1f1f;
+  background: #14261c;
+  border-top: 2px solid #2f5e46;
 }
 
 nav button {
   flex: 1;
-  padding: 1rem;
+  padding: 0.8rem;
   background: none;
   border: none;
-  color: white;
-  font-size: 1rem;
+  color: #e6f2ea;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+nav button:hover {
+  background: #1f3a2b;
+}
+
+.esempio {
+  border-left: 4px solid #6fbf73;
+  padding-left: 1rem;
+  margin: 1rem 0;
+  opacity: 0.9;
+  font-style: italic;
 }
