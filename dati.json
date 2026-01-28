@@ -1,0 +1,16 @@
+{
+  "capitoli": [
+    {
+      "titolo": "Introduzione",
+      "testo": "Benvenuti nel mondo di Eldoria..."
+    },
+    {
+      "titolo": "Combattimento",
+      "testo": "Il combattimento si svolge a turni..."
+    },
+    {
+      "titolo": "Magia",
+      "testo": "La magia utilizza punti mana..."
+    }
+  ]
+}
